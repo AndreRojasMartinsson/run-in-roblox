@@ -1,10 +1,10 @@
 [package]
-name = "run-in-roblox"
+name = "run-in-roblox-modified"
 description = "Run stuff inside Roblox Studio"
-version = "0.3.0"
-authors = ["Lucien Greathouse <me@lpghatguy.com>"]
+version = "0.3.1"
+authors = ["Lucien Greathouse <me@lpghatguy.com>", "RootEntry"]
 edition = "2018"
-repository = "https://github.com/rojo-rbx/run-in-roblox"
+repository = "https://github.com/AndreRojasMartinsson/run-in-roblox.git"
 license = "MIT"
 readme = "README.md"
 
